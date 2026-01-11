@@ -21,7 +21,7 @@ Pillow (PIL) – Image handling
 📦 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/google-pay-upi-qr.git
+git clone https://github.com/Pankaj24112005/Google-Pay-UPI-QR-Code-Generator-Tkinter-Using-Python
 
 
 Install required libraries:
